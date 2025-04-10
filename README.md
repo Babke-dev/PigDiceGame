@@ -1,4 +1,4 @@
-Pig Dice Game
+
 A simple 2-player dice game built with JavaScript, HTML, and CSS. Players take turns rolling a die and accumulating points – but rolling a 1 resets their round score. First to reach 100 wins!
 
 🔧 Tech Stack
